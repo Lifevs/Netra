@@ -1,6 +1,4 @@
-
-
-#Netra-V1
+Netra-V1
 
 Netra-V1 is an innovative healthcare solution designed to bring transparency and efficiency to hospital management. Our platform enables hospitals to provide real-time visibility into the services offered to patients, ensuring that hospital clients receive accountable and transparent care.
 
@@ -20,4 +18,3 @@ At Netra, we believe in bridging the gap between hospital management and patient
 Connect with us, contribute, and stay updated with the latest developments:🔗 Instagram: Netra Official🔗 LinkedIn: Netra Company Page🔗 Discord (Dev Community): Join Here
 
 Let's build the future of transparent healthcare together! 🚀
-
